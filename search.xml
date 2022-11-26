@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>读三篇文章</title>
-      <link href="/2022/11/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%20copy%202/"/>
-      <url>/2022/11/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%20copy%202/</url>
+      <title>读二篇文章</title>
+      <link href="/2022/11/27/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0%20/"/>
+      <url>/2022/11/27/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0%20/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第三篇文章"><a href="#这是我的第三篇文章" class="headerlink" title="这是我的第三篇文章"></a>这是我的第三篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h2>]]></content>
       
       
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,6 +36,18 @@
         <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
       
       
+      <categories>
+          
+          <category> CSS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签3 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -31,12 +55,24 @@
     
     <entry>
       <title>读二篇文章</title>
-      <link href="/2022/11/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%20copy/"/>
-      <url>/2022/11/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%20copy/</url>
+      <link href="/2022/11/27/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20/"/>
+      <url>/2022/11/27/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我的第三篇文章"><a href="#这是我的第三篇文章" class="headerlink" title="这是我的第三篇文章"></a>这是我的第三篇文章</h2>]]></content>
       
       
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+        </tags>
       
     </entry>
     
